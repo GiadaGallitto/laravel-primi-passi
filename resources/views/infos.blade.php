@@ -38,6 +38,9 @@
             <h3>Here is all the info you need about Laravel... <br>
                 It's just invisible but it's there
             </h3>
+            <div class="w-100 mt-4">
+                <img src="/images/infos-meme.jpg" alt="infos meme">
+            </div>
         </main>
     </body>
 </html>

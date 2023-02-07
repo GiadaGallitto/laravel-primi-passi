@@ -37,6 +37,9 @@
 
         <main class="container text-center mt-5">
             <h3>Click one of the buttons on the navigation bar and discover the pages of our site</h3>
+            <div class="w-100 mt-4">
+                <img src="/images/thumb_do-not-push-button.png" alt="peter meme">
+            </div>
         </main>
     </body>
 </html>

@@ -36,6 +36,12 @@
 
         <main class="container text-center mt-5">
             <h3>Relax and have fun on our page dedicated to the best programmer memes, have a laugh and join us!</h3>
+            <div class="w-100 mt-4 d-flex flex-wrap">
+                <img class="mb-5 p-2 w-50" src="/images/laravel-meme.jpeg" alt="first meme">
+                <img class="mb-5 p-2 w-50" src="/images/laravel-meme2.jpg" alt="second meme">
+                <img class="mb-5 p-2 w-50" src="/images/laravel-meme3.png" alt="third meme">
+                <img class="mb-5 p-2 w-50" src="/images/laravel-meme4.png" alt="fourth meme">
+            </div>
         </main>
     </body>
 </html>

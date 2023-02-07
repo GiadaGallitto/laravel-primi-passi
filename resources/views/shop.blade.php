@@ -38,6 +38,9 @@
             <h3>
                 Here you can buy all our best and unbeatable products, spend your money wisely...
             </h3>
+            <div class="w-100 mt-4">
+                <img class="w-100" src="/images/shop_meme.jpg" alt="shop meme">
+            </div>
         </main>
     </body>
 </html>
